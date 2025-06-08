@@ -1,1 +1,1 @@
-
+One of the key things I’ve learned so far in this course is how to effectively collaborate on GitHub using forks and pull requests. I now understand how forking a repository allows me to make changes independently, and how creating a pull request helps propose those changes back to the original project. This process is essential for working in teams and contributing to open-source projects, and it’s given me a solid foundation for using version control in real-world development environments.
